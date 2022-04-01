@@ -9,6 +9,8 @@
 - 👯 I’m looking to collaborate on Discord Bots (in [Discord.py](https://github.com/Rapptz/discord.py))
 - 🤔 I’m looking for help with Full-Stack Web Development and Developing Minecraft Mods.
 
+<a href="https://bot.exult.games/invite"><h2>🤖 Invite my Discord Bot! 🤖</h2></a>
+
 <details>
   <summary>My GitHub Stats :)</summary>
 
