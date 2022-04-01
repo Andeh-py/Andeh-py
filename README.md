@@ -9,6 +9,11 @@
 - 👯 I’m looking to collaborate on Discord Bots (in [Discord.py](https://github.com/Rapptz/discord.py))
 - 🤔 I’m looking for help with Full-Stack Web Development and Developing Minecraft Mods.
 
+<details>
+  <summary>My GitHub Stats :)</summary>
+
 My GitHub Stats | Most Used Languages on my GitHub
 :-------------------------:|:-------------------------:
 ![MyGitHubStats](https://github-readme-stats.vercel.app/api?username=Hirakudev&layout=compact&theme=tokyonight&count_private=true&hide_border=true5) | ![MyGitHubLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hirakudev&layout=compact&theme=tokyonight&count_private=true&hide_border=true5)
+
+</details>
