@@ -14,8 +14,8 @@
 <details>
   <summary>My GitHub Stats :)</summary>
 
-My GitHub Stats | Most Used Languages on my GitHub
-:-------------------------:|:-------------------------:
-![MyGitHubStats](https://github-readme-stats.vercel.app/api?username=Hirakudev&layout=compact&theme=tokyonight&count_private=true&hide_border=true5) | ![MyGitHubLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hirakudev&layout=compact&theme=tokyonight&count_private=true&hide_border=true5)
+My GitHub Stats | Most Used Languages on my GitHub | Profile Views<br>(Since 04/2022)
+:-------------------------:|:-------------------------:|:-------------------------:
+![MyGitHubStats](https://github-readme-stats.vercel.app/api?username=Hirakudev&layout=compact&theme=tokyonight&count_private=true&hide_border=true5) | ![MyGitHubLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hirakudev&layout=compact&theme=tokyonight&count_private=true&hide_border=true5) | ![](https://komarev.com/ghpvc/?username=Hirakudev)
 
 </details>
