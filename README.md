@@ -1,17 +1,17 @@
 ### Hi there 👋
 
 - 🟠 I'm 18 years old and from the UK
-- 💻 I have a website [here](https://andeh.tech)!
-- 🕹 I have a Software Development startup called [Exult](https://exult.games)!
-- 🎓 I'm an aspiring Computer Science Major
-- 🔭 I’m currently working on [Exult Bot](https://github.com/Hirakudev/Exult-Bot-Rewrite) and [V2 of my portfolio](https://github.com/Hirakudev/Portfolio-website/tree/version2)
+- 💻 I have a website [here](https://andeh.uk)!
+- 🕹 I have a Software Development startup called [Exult](https://exultsoftware.com)!
+- 🎓 I start my Computer Science undergrad this coming september!
+- 🔭 I’m currently working on [Exult Bot](https://github.com/Hirakudev/Exult-Bot)
 - 🌱 I’m currently learning [Full Stack Web Dev](https://github.com/Hirakudev/Tournament-Web-Application)
-- 👯 I’m looking to collaborate on Discord Bots (in [Discord.py](https://github.com/Rapptz/discord.py))
+- 💵 Experienced Discord Bot Freelancer (30+ happy clients!) ~ Contact me [here](https://discord.com/users/957437570546012240) if you're interested in a **Discord Bot** from me!
 
-<a href="https://bot.exult.games/invite"><h2>🤖 Invite my Discord Bot! 🤖</h2></a>
+<a href="https://exultbot.xyz/invite"><h2>🤖 Invite my Discord Bot! 🤖</h2></a>
 
 <details>
-  <summary>My GitHub Stats :)</summary>
+  <summary><h2>My GitHub Stats</h2></summary>
 
 My GitHub Stats | Most Used Languages on my GitHub | Profile Views<br>(Since 04/2022)
 :-------------------------:|:-------------------------:|:-------------------------:
