@@ -6,7 +6,7 @@
 - 🎓 I start my Computer Science undergrad this coming september!
 - 🔭 I’m currently working on [Exult Bot](https://github.com/Hirakudev/Exult-Bot)
 - 🌱 I’m currently learning [Full Stack Web Dev](https://github.com/Hirakudev/Tournament-Web-Application)
-- 💵 Experienced Discord Bot Freelancer (30+ happy clients!) ~ Contact me [here](https://discord.com/users/957437570546012240) if you're interested in a **Discord Bot** from me!
+- 💼 Developer for [BisectHosting](https://bisecthosting.com) 
 
 <a href="https://exultbot.xyz/invite"><h2>🤖 Invite my Discord Bot! 🤖</h2></a>
 
