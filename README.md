@@ -10,11 +10,8 @@
 
 <a href="https://exultbot.xyz/invite"><h2>🤖 Invite my Discord Bot! 🤖</h2></a>
 
-<details>
-  <summary><h2>My GitHub Stats</h2></summary>
+<h2>My GitHub Stats</h2>
 
-My GitHub Stats | Most Used Languages on my GitHub | Profile Views<br>(Since 04/2022)
-:-------------------------:|:-------------------------:|:-------------------------:
-![MyGitHubStats](https://github-readme-stats.vercel.app/api?username=ExHiraku&layout=compact&theme=tokyonight&count_private=true&hide_border=true5) | ![MyGitHubLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=ExHiraku&layout=compact&theme=tokyonight&count_private=true&hide_border=true5) | ![](https://komarev.com/ghpvc/?username=ExHiraku)
-
-</details>
+My GitHub Stats | Most Used Languages on my GitHub
+:-------------------------:|:-------------------------:
+![MyGitHubStats](https://github-readme-stats.vercel.app/api?username=ExHiraku&layout=compact&theme=tokyonight&count_private=true&hide_border=true5) | ![MyGitHubLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=ExHiraku&layout=compact&theme=tokyonight&count_private=true&hide_border=true5)
