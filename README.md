@@ -9,6 +9,8 @@
 <p align="center">👨‍💻 Python Developer for <a href="https://bisecthosting.com/Exult" target="_blank">BisectHosting</a> </p>
 <p align="center"> 🤝 Director of <a href="https://exultsoftware.com" target="_blank">ExultSoftware</a> </p>
 
+<h4 align="center"><i> A lot of my best work I sadly cannot make public, some of the more recent public repos are okay but definitely do not best display my capabilities as a developer </i></h4>
+
 <h2 align="center"> Languages and Technologies </h2>
 
 <p align="center">
