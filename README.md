@@ -4,7 +4,7 @@
 
 <h2 align="center"> About Me </h2>
 
-<p align="center"> :gb: 18 Year old Developer from the UK </p>
+<p align="center"> :gb: 19 Year old Developer from the UK </p>
 <p align="center"> 🎓 First Year Computer Science Undergraduate Student (NTU) </p>
 <p align="center">👨‍💻 Python Developer for <a href="https://bisecthosting.com/Exult" target="_blank">BisectHosting</a> </p>
 <p align="center"> 🤝 Director of <a href="https://exultsoftware.com" target="_blank">ExultSoftware</a> </p>
