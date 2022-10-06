@@ -60,10 +60,10 @@
 <img src="https://img.shields.io/badge/GPU-AMD Radeon 6600XT 8GB-red?color=da5657&labelColor=1c1c1f">
 </p>
 
-<h2 align="center"> GitHub Stats </h2>
+<!--<h2 align="center"> GitHub Stats </h2>
 
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ExHiraku&show_icons=true&count_private=true&bg_color=1c1c1f&title_color=da5657&text_color=da5657&icon_color=da5657&border_color=da5657">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExHiraku&layout=compact&bg_color=1c1c1f&title_color=da5657&text_color=da5657&icon_color=da5657&border_color=da5657")>
-</p>
+</p>-->
