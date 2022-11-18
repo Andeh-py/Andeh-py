@@ -44,7 +44,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/-AJAX-red?color=da5657">
 <img src="https://img.shields.io/badge/-Docker-red?color=da5657">
-<img src="https://img.shields.io/badge/-React or Vue-red?color=da5657">
+<img src="https://img.shields.io/badge/-React-red?color=da5657">
 <img src="https://img.shields.io/badge/-Figma-red?color=da5657">
 </p>
 
