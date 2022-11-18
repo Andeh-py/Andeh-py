@@ -29,6 +29,7 @@
 <img src="https://img.shields.io/badge/-MySQL-red?color=da5657">
 <img src="https://img.shields.io/badge/-Ubuntu-red?color=da5657">
 <img src="https://img.shields.io/badge/-NGINX-red?color=da5657">
+  <img src="https://img.shields.io/badge/-Firebase-red?color=da5657">
 </p>
 
 <h2 align="center"> Currently/Planning on Learning </h2>
