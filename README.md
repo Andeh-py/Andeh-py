@@ -57,8 +57,8 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/RAM-16GB 3200MHz-red?color=da5657&labelColor=1c1c1f">
-<img src="https://img.shields.io/badge/GPU-AMD Radeon 6600XT 8GB-red?color=da5657&labelColor=1c1c1f">
+<img src="https://img.shields.io/badge/RAM-32GB 3600MHz-red?color=da5657&labelColor=1c1c1f">
+<img src="https://img.shields.io/badge/GPU-AMD Radeon 6650XT 8GB-red?color=da5657&labelColor=1c1c1f">
 </p>
 
 <!--<h2 align="center"> GitHub Stats </h2>
