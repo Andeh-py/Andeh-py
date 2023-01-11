@@ -19,6 +19,7 @@
 <img src="https://img.shields.io/badge/-HTML-red?color=1c1c1f">
 <img src="https://img.shields.io/badge/-CSS-red?color=1c1c1f">
 <img src="https://img.shields.io/badge/-SQL-red?color=1c1c1f">
+<img src="https://img.shields.io/badge/-PHP-red?color=1c1c1f">
 </p>
 
 <p align="center">
@@ -39,13 +40,13 @@
 <img src="https://img.shields.io/badge/-C++-red?color=1c1c1f">
 <img src="https://img.shields.io/badge/-Go-red?color=1c1c1f">
 <img src="https://img.shields.io/badge/-Rust-red?color=1c1c1f">
-<img src="https://img.shields.io/badge/-PHP-red?color=1c1c1f">
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/-AJAX-red?color=da5657">
 <img src="https://img.shields.io/badge/-Docker-red?color=da5657">
 <img src="https://img.shields.io/badge/-React-red?color=da5657">
+  <img src="https://img.shields.io/badge/-Vue-red?color=da5657">
 <img src="https://img.shields.io/badge/-Figma-red?color=da5657">
 </p>
 
