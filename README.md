@@ -23,14 +23,13 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/-VSCode-red?color=da5657">
-<img src="https://img.shields.io/badge/-IntelliJ IDEA-red?color=da5657">
 <img src="https://img.shields.io/badge/-Git-red?color=da5657">
 <img src="https://img.shields.io/badge/-PostgreSQL-red?color=da5657">
 <img src="https://img.shields.io/badge/-MySQL-red?color=da5657">
 <img src="https://img.shields.io/badge/-Ubuntu-red?color=da5657">
 <img src="https://img.shields.io/badge/-NGINX-red?color=da5657">
-  <img src="https://img.shields.io/badge/-Firebase-red?color=da5657">
+<img src="https://img.shields.io/badge/-Firebase-red?color=da5657">
+<img src="https://img.shields.io/badge/-Docker-red?color=da5657">
 </p>
 
 <h2 align="center"> Currently/Planning on Learning </h2>
@@ -44,10 +43,19 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/-AJAX-red?color=da5657">
-<img src="https://img.shields.io/badge/-Docker-red?color=da5657">
 <img src="https://img.shields.io/badge/-React-red?color=da5657">
-  <img src="https://img.shields.io/badge/-Vue-red?color=da5657">
-<img src="https://img.shields.io/badge/-Figma-red?color=da5657">
+<img src="https://img.shields.io/badge/-Vue-red?color=da5657">
+</p>
+
+<h2 align="center"> Tools </h2>
+
+<p align="center">
+<img src="https://img.shields.io/badge/-VSCode-red?color=da5657">
+<img src="https://img.shields.io/badge/-IntelliJ IDEA-red?color=1c1c1f">
+<img src="https://img.shields.io/badge/-PhpStorm-red?color=da5657">
+<img src="https://img.shields.io/badge/-Figma-red?color=1c1c1f">
+<img src="https://img.shields.io/badge/-PyCharm-red?color=da5657">
+<img src="https://img.shields.io/badge/-CLion-red?color=1c1c1f">
 </p>
 
 <h2 align="center"> Desktop Specs </h2>
