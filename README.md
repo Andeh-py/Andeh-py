@@ -15,6 +15,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/-Python-red?color=1c1c1f">
+<img src="https://img.shields.io/badge/-JavaScript-red?color=1c1c1f">
 <img src="https://img.shields.io/badge/-Java-red?color=1c1c1f">
 <img src="https://img.shields.io/badge/-HTML-red?color=1c1c1f">
 <img src="https://img.shields.io/badge/-CSS-red?color=1c1c1f">
@@ -30,21 +31,18 @@
 <img src="https://img.shields.io/badge/-NGINX-red?color=da5657">
 <img src="https://img.shields.io/badge/-Firebase-red?color=da5657">
 <img src="https://img.shields.io/badge/-Docker-red?color=da5657">
+<img src="https://img.shields.io/badge/-React-red?color=da5657">
+<img src="https://img.shields.io/badge/-NodeJS-red?color=da5657">
 </p>
 
 <h2 align="center"> Currently/Planning on Learning </h2>
 
 <p align="center">
-<img src="https://img.shields.io/badge/-JavaScript-red?color=1c1c1f">
-<img src="https://img.shields.io/badge/-C++-red?color=1c1c1f">
 <img src="https://img.shields.io/badge/-Go-red?color=1c1c1f">
 <img src="https://img.shields.io/badge/-Rust-red?color=1c1c1f">
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/-AJAX-red?color=da5657">
-<img src="https://img.shields.io/badge/-React-red?color=da5657">
-<img src="https://img.shields.io/badge/-Vue-red?color=da5657">
 </p>
 
 <h2 align="center"> Tools </h2>
